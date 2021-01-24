@@ -1,4 +1,4 @@
-### Hola,I'm Parthib Sarkar 👋
+### Hola, I'm Parthib Sarkar 👋
 
 - 🌱 I’m currently learning Android Development.
 - 👯 I’m looking to collaborate on Youtube.
