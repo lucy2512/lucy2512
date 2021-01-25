@@ -13,7 +13,7 @@
 ### Spotify Playing 🎧
 
 [<img src="https://now-playing-Lucy.vercel.app/api/spotify-playing" alt="Lucy Spotify Playing" width="350" />](https://open.spotify.com/album/6pUg9RDDoVyQQVJ48FkmXz)
--->
+
 <details>
   <summary>:zap: GitHub Stats</summary>
 
@@ -26,3 +26,4 @@
 <a href="https://twitter.com/KumarParthib" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
 <a href="https://youtu.be/R534mYeGj2o" target="_blank"><i class="fa fa-youtube" aria-hidden="true"></i></a>
 <a href="https://github.com/ParthibOP" target="_blank"><i class="fa fa-github" aria-hidden="true"></i></a>
+-->
