@@ -10,3 +10,9 @@
 <!--
 - 🔭 I’m currently working on ...
 -->
+<a href="https://www.linkedin.com/in/parthib-sarkar-05855b1a1" target="_blank"> <i class="fab fa-linkedin-in"></i></a>
+<a href="https://www.instagram.com/itsparthib/" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a>
+<a href="https://www.facebook.com/itsparthib2512/" target="_blank"><i class="fa fa-facebook"></i></a>
+<a href="https://twitter.com/KumarParthib" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+<a href="https://youtu.be/R534mYeGj2o" target="_blank"><i class="fa fa-youtube" aria-hidden="true"></i></a>
+<a href="https://github.com/ParthibOP" target="_blank"><i class="fa fa-github" aria-hidden="true"></i></a>
