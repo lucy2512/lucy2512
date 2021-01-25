@@ -10,11 +10,13 @@
 <!--
 - 🔭 I’m currently working on ...
 -->
-<html>
+
+
 <a href="https://www.linkedin.com/in/parthib-sarkar-05855b1a1" target="_blank"> <i class="fab fa-linkedin-in"></i></a>
 <a href="https://www.instagram.com/itsparthib/" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a>
 <a href="https://www.facebook.com/itsparthib2512/" target="_blank"><i class="fa fa-facebook"></i></a>
 <a href="https://twitter.com/KumarParthib" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
 <a href="https://youtu.be/R534mYeGj2o" target="_blank"><i class="fa fa-youtube" aria-hidden="true"></i></a>
 <a href="https://github.com/ParthibOP" target="_blank"><i class="fa fa-github" aria-hidden="true"></i></a>
-</html>
+
+<img src="https://github-readme-stats.vercel.app/api?username=lucy2512&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
