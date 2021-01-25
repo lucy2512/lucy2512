@@ -19,4 +19,9 @@
 <a href="https://youtu.be/R534mYeGj2o" target="_blank"><i class="fa fa-youtube" aria-hidden="true"></i></a>
 <a href="https://github.com/ParthibOP" target="_blank"><i class="fa fa-github" aria-hidden="true"></i></a>
 
-<img src="https://github-readme-stats.vercel.app/api?username=lucy2512&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img  src="https://github-readme-stats.vercel.app/api?username=lucy2512&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
+
+</details>
