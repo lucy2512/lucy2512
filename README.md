@@ -7,6 +7,15 @@
 - 📫 How to reach me: mail4parthib@gmail.com
 - 😄 Pronouns: He/His.
 - ⚡ Fun fact: I spend almost 6 to 8 hours playing cricket & PUBG everyday.
+
+### Connect with me:
+
+[<img align="left" alt="Parthib | LinkedIn" width="30px" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/> ][linkedin]
+[<img align="left" alt="Parthib | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/youtube-play.png"/>][youtube]
+
+[linkedin]:https://www.linkedin.com/in/parthib-sarkar-05855b1a1
+[youtube]:https://www.linkedin.com/in/parthib-sarkar-05855b1a1
+<br />
 <!--
 - 🔭 I’m currently working on ...
 
