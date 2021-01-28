@@ -27,7 +27,7 @@
 </details>
 <details>
   <summary>📚 Most Used Languages</summary>
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucy2512&layout=compact&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
+  <img align="left" alt="codeSTACKr's GitHub Stats" src=https://github-readme-stats.vercel.app/api/top-langs/?username=lucy2512&layout=compact />
 </details>
 <details>
   <summary>😄 Here is meme for you, to make your day better</summary>
