@@ -9,7 +9,7 @@
 - 💬 Ask me about any tech related stuff.
 - 📫 How to reach me: mail4parthib@gmail.com
 - 😄 Pronouns: He/His.
-- ⚡ Fun fact: I spend almost 6 to 8 hours playing cricket & PUBG everyday.
+- ⚡ Fun fact: I spend almost 6 hours playing cricket & PUBG everyday.
 ### 📫 Connect with me <img src="https://github.com/lucy2512/lucy2512/blob/main/Assets%20github/handshake.gif" height="32px"> 
 
    [<img align="left"  alt="Parthib | LinkedIn" width="35px" src="https://github.com/lucy2512/lucy2512/blob/main/Assets%20github/icons8-linkedin.svg"/> ][linkedin]
@@ -22,12 +22,12 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img  src="https://github-readme-stats1-beta.vercel.app/api?username=lucy2512&&show_icons=true&hide=stars&hide_border=true" />
+  <img   alt="Parthib's GitHub Stats" src="https://github-readme-stats1-beta.vercel.app/api?username=lucy2512&&show_icons=true&hide=stars&hide_border=true" />
 
 </details>
 <details>
   <summary>📚 Most Used Languages</summary>
-  <img align="left" alt="codeSTACKr's GitHub Stats" src=https://github-readme-stats.vercel.app/api/top-langs/?username=lucy2512&layout=compact />
+  <img  alt="Parthib's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucy2512&theme=light&layout=compact&hide_border=true" />
 </details>
 <details>
   <summary>😄 Here is meme for you, to make your day better</summary>
