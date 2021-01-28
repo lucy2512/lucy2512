@@ -1,4 +1,4 @@
-### Hola, I'm Parthib Sarkar 👋
+### Hola, I'm Parthib Sarkar <img src="https://github.com/lucy2512/lucy2512/blob/main/Assets%20github/hi.gif" width="25px">
 
 <img align="right" alt="GIF"  width="340px" src="https://github.com/lucy2512/lucy2512/blob/main/Assets%20github/programmer.gif" /> 
 
@@ -13,7 +13,7 @@
 
 
                                                                                                                                                      
-### Connect with me:
+### 📫 Connect with me <img src="https://github.com/lucy2512/lucy2512/blob/main/Assets%20github/handshake.gif" height="32px"> 
 
    [<img  alt="Parthib | LinkedIn" width="35px" src="https://github.com/lucy2512/lucy2512/blob/main/Assets%20github/icons8-linkedin.svg"/> ][linkedin]
  [<img  alt="Parthib | LinkedIn" width="35px" src="https://github.com/lucy2512/lucy2512/blob/main/Assets%20github/icons8-play-button.svg"/>][youtube]
