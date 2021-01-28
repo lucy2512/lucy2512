@@ -31,7 +31,7 @@
 </details>
 <details>
   <summary>😄 Here is meme for you, to make your day better</summary>
-   <a href="https://github.com/lucy2512/lucy2512/blob/main/Assets%20github/mem1-1_091516042106.webp" title="Meme" alt="Please refresh the page if the meme doesn't show up." height="350"></a>
+   <a href="https://github.com/lucy2512"><img src="https://github.com/lucy2512/lucy2512/blob/main/Assets%20github/ezgif-7-bc5164347510.png" title="Meme" alt="Please refresh the page if the meme doesn't show up." height="350"></a>
 </details>
 
 --- 
