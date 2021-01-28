@@ -15,8 +15,8 @@
                                                                                                                                                      
 ### Connect with me:
 
--[<img align="left" alt="Parthib | LinkedIn" width="30px" src="https://github.com/lucy2512/lucy2512/blob/main/Assets%20github/icons8-linkedin.svg"/> ][linkedin]
-[<img align="left" alt="Parthib | LinkedIn" width="30px" src="https://github.com/lucy2512/lucy2512/blob/main/Assets%20github/icons8-play-button.svg"/>][youtube]
+   [<img  alt="Parthib | LinkedIn" width="35px" src="https://github.com/lucy2512/lucy2512/blob/main/Assets%20github/icons8-linkedin.svg"/> ][linkedin]
+ [<img  alt="Parthib | LinkedIn" width="35px" src="https://github.com/lucy2512/lucy2512/blob/main/Assets%20github/icons8-play-button.svg"/>][youtube]
 
 [linkedin]:https://www.linkedin.com/in/parthib-sarkar-05855b1a1
 [youtube]:https://youtu.be/R534mYeGj2o
