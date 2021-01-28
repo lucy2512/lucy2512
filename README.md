@@ -1,5 +1,7 @@
 ### Hola, I'm Parthib Sarkar 👋
 
+<img align="right" alt="GIF"  width="340px" src="https://github.com/lucy2512/lucy2512/blob/main/Assets%20github/programmer.gif" /> 
+
 - 🎓 I’m currently a Student of Computer Science & Engineering, <a href="https://www.hetc.ac.in/" target="_blank">HETC.</a>
 - 🌱 I’m currently learning Android Development.
 - 👯 I’m looking to collaborate on Youtube.
@@ -9,10 +11,12 @@
 - 😄 Pronouns: He/His.
 - ⚡ Fun fact: I spend almost 6 to 8 hours playing cricket & PUBG everyday.
 
+
+                                                                                                                                                     
 ### Connect with me:
 
-[<img align="left" alt="Parthib | LinkedIn" width="30px" src="https://github.com/lucy2512/lucy2512/blob/main/icons8-linkedin.svg"/> ][linkedin]
-[<img align="left" alt="Parthib | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/youtube-play.png"/>][youtube]
+-[<img align="left" alt="Parthib | LinkedIn" width="30px" src="https://github.com/lucy2512/lucy2512/blob/main/Assets%20github/icons8-linkedin.svg"/> ][linkedin]
+[<img align="left" alt="Parthib | LinkedIn" width="30px" src="https://github.com/lucy2512/lucy2512/blob/main/Assets%20github/icons8-play-button.svg"/>][youtube]
 
 [linkedin]:https://www.linkedin.com/in/parthib-sarkar-05855b1a1
 [youtube]:https://youtu.be/R534mYeGj2o
