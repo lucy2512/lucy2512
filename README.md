@@ -1,4 +1,4 @@
-### Hola, I'm Parthib Sarkar <img src="https://github.com/lucy2512/lucy2512/blob/main/Assets%20github/hi.gif" width="25px">
+### Hola <img src="https://github.com/lucy2512/lucy2512/blob/main/Assets%20github/hi.gif" width="25px">, I'm Parthib Sarkar
 
 <img align="right" alt="GIF"  width="340px" src="https://github.com/lucy2512/lucy2512/blob/main/Assets%20github/programmer.gif" /> 
 
@@ -21,6 +21,16 @@
 [linkedin]:https://www.linkedin.com/in/parthib-sarkar-05855b1a1
 [youtube]:https://youtu.be/R534mYeGj2o
 <br />
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img  src="https://github-readme-stats.vercel.app/api?username=lucy2512&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
+
+</details>
+<details>
+  <summary>😄 Here is meme for you, to make your day better</summary>
+   <a href="https://github.com/lucy2512/lucy2512/blob/main/Assets%20github/mem1-1_091516042106.webp" title="Meme" alt="Please refresh the page if the meme doesn't show up." height="350"></a>
+</details>
 <!--
 - 🔭 I’m currently working on ...
 
@@ -28,10 +38,5 @@
 
 [<img src="https://now-playing-Lucy.vercel.app/api/spotify-playing" alt="Lucy Spotify Playing" width="350" />](https://open.spotify.com/album/6pUg9RDDoVyQQVJ48FkmXz)
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
 
-  <img  src="https://github-readme-stats.vercel.app/api?username=lucy2512&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
-
-</details>
 
