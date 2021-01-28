@@ -11,7 +11,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Parthib | LinkedIn" width="30px" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/> ][linkedin]
+[<img align="left" alt="Parthib | LinkedIn" width="30px" src="https://github.com/lucy2512/lucy2512/blob/main/icons8-linkedin.svg"/> ][linkedin]
 [<img align="left" alt="Parthib | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/youtube-play.png"/>][youtube]
 
 [linkedin]:https://www.linkedin.com/in/parthib-sarkar-05855b1a1
