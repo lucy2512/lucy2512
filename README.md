@@ -22,7 +22,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img  src="https://github-readme-stats2-nine.vercel.app/api?username=lucy2512&&show_icons=true&hide=stars&hide_border=true" />
+  <img  src="https://github-readme-stats1-beta.vercel.app/api?username=lucy2512&&show_icons=true&hide=stars&hide_border=true" />
 
 </details>
 <details>
