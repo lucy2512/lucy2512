@@ -15,8 +15,8 @@
                                                                                                                                                      
 ### 📫 Connect with me <img src="https://github.com/lucy2512/lucy2512/blob/main/Assets%20github/handshake.gif" height="32px"> 
 
-   [<img  alt="Parthib | LinkedIn" width="35px" src="https://github.com/lucy2512/lucy2512/blob/main/Assets%20github/icons8-linkedin.svg"/> ][linkedin]
- [<img  alt="Parthib | LinkedIn" width="35px" src="https://github.com/lucy2512/lucy2512/blob/main/Assets%20github/icons8-play-button.svg"/>][youtube]
+   [<img align="left"  alt="Parthib | LinkedIn" width="35px" src="https://github.com/lucy2512/lucy2512/blob/main/Assets%20github/icons8-linkedin.svg"/> ][linkedin]
+ [<img align="left" alt="Parthib | LinkedIn" width="35px" src="https://github.com/lucy2512/lucy2512/blob/main/Assets%20github/icons8-play-button.svg"/>][youtube]
 
 [linkedin]:https://www.linkedin.com/in/parthib-sarkar-05855b1a1
 [youtube]:https://youtu.be/R534mYeGj2o
@@ -26,6 +26,10 @@
 
   <img  src="https://github-readme-stats.vercel.app/api?username=lucy2512&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
 
+</details>
+<details>
+  <summary>📚 Most Used Languages</summary>
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucy2512&layout=compact&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
 </details>
 <details>
   <summary>😄 Here is meme for you, to make your day better</summary>
