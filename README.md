@@ -14,7 +14,7 @@
 [<img align="left" alt="Parthib | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/youtube-play.png"/>][youtube]
 
 [linkedin]:https://www.linkedin.com/in/parthib-sarkar-05855b1a1
-[youtube]:https://www.linkedin.com/in/parthib-sarkar-05855b1a1
+[youtube]:https://youtu.be/R534mYeGj2o
 <br />
 <!--
 - 🔭 I’m currently working on ...
