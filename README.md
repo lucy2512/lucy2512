@@ -6,7 +6,6 @@
 - 🌱 I’m currently learning Android Development.
 - 👯 I’m looking to collaborate on Youtube.
 - 🤔 I’m looking for help with Android Development.
-- 💬 Ask me about any tech related stuff.
 - 📫 How to reach me: mail4parthib@gmail.com
 - 😄 Pronouns: He/His.
 - ⚡ Fun fact: I spend almost 5 hours playing cricket & PUBG everyday.
@@ -36,7 +35,7 @@
 ---
 <!--
 - 🔭 I’m currently working on ...
-
+- 💬 Ask me about any tech related stuff.
 ### Spotify Playing 🎧
 
 [<img src="https://now-playing-Lucy.vercel.app/api/spotify-playing" alt="Lucy Spotify Playing" width="350" />](https://open.spotify.com/album/6pUg9RDDoVyQQVJ48FkmXz)
