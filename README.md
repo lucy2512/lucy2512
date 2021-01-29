@@ -1,6 +1,6 @@
 ### Hola <img src="https://github.com/lucy2512/lucy2512/blob/main/Assets%20github/hi.gif" width="25px">, I'm Parthib Sarkar
 
-<img align="right" alt="GIF"  width="340px" src="https://github.com/lucy2512/lucy2512/blob/main/Assets%20github/programmer.gif" /> 
+<img align="right" alt="GIF"  width="320px" src="https://github.com/lucy2512/lucy2512/blob/main/Assets%20github/programmer.gif" /> 
 
 - 🎓 I’m currently a Student of Computer Science & Engineering, <a href="https://www.hetc.ac.in/" target="_blank">HETC.</a>
 - 🌱 I’m currently learning Android Development.
