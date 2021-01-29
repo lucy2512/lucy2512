@@ -4,8 +4,9 @@
 
 - 🎓 I’m currently a Student of Computer Science & Engineering, <a href="https://www.hetc.ac.in/" target="_blank">HETC.</a>
 - 🌱 I’m currently learning Android Development.
-- 👯 I’m looking to collaborate on Youtube.
+- 👯 I’m looking to collaborate on anything free and open source.
 - 🤔 I’m looking for help with Android Development.
+- 💬 Ask me about any tech related stuff.
 - 📫 How to reach me: mail4parthib@gmail.com
 - 😄 Pronouns: He/His.
 - ⚡ Fun fact: I spend almost 5 hours playing cricket & PUBG everyday.
