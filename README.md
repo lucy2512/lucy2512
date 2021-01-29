@@ -9,7 +9,7 @@
 - 💬 Ask me about any tech related stuff.
 - 📫 How to reach me: mail4parthib@gmail.com
 - 😄 Pronouns: He/His.
-- ⚡ Fun fact: I spend almost 4 to 5 hours playing cricket & PUBG everyday.
+- ⚡ Fun fact: I spend almost 5 hours playing cricket & PUBG everyday.
 ### 📫 Connect with me <img src="https://github.com/lucy2512/lucy2512/blob/main/Assets%20github/handshake.gif" height="32px"> 
 
    [<img align="left"  alt="Parthib | LinkedIn" width="35px" src="https://github.com/lucy2512/lucy2512/blob/main/Assets%20github/icons8-linkedin.svg"/> ][linkedin]
