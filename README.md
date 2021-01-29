@@ -20,6 +20,12 @@
 </br>
 
 <details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img   alt="Parthib's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=lucy2512&&show_icons=true&hide=stars&hide_border=true" />
+
+</details>
+<details>
   <summary>😄 Here is meme for you, to make your day better</summary>
    <a href="https://github.com/lucy2512"><img src="https://github.com/lucy2512/lucy2512/blob/main/Assets%20github/ezgif-7-bc5164347510.png" title="Meme" alt="Please refresh the page if the meme doesn't show up." height="350"></a>
 </details>
@@ -41,12 +47,7 @@
 
 [<img src="https://now-playing-Lucy.vercel.app/api/spotify-playing" alt="Lucy Spotify Playing" width="350" />](https://open.spotify.com/album/6pUg9RDDoVyQQVJ48FkmXz)
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
 
-  <img   alt="Parthib's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=lucy2512&&show_icons=true&hide=stars&hide_border=true" />
-
-</details>
 <details>
   <summary>📚 Most Used Languages</summary>
   <img  alt="Parthib's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucy2512&theme=light&layout=compact&hide_border=true" />
