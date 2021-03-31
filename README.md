@@ -3,9 +3,9 @@
 <img align="right" alt="GIF"  width="320px" src="https://github.com/lucy2512/lucy2512/blob/main/Assets%20github/programmer.gif" /> 
 
 - 🎓 I’m currently a Student of Computer Science & Engineering, <a href="https://www.hetc.ac.in/" target="_blank">HETC.</a>
-- 🌱 I’m currently learning Android Development.
+- 🌱 I’m currently learning MERN stack.
 - 👯 I’m looking to collaborate on anything free and open source.
-- 🤔 I’m looking for help with Android Development.
+- 🤔 I’m looking for help with MERN stack.
 - 💬 Ask me about any tech related stuff.
 - 📫 How to reach me: mail4parthib@gmail.com
 - 😄 Pronouns: He/His.
