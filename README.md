@@ -1,55 +1,67 @@
-### Hola <img src="https://github.com/lucy2512/lucy2512/blob/main/Assets%20github/hi.gif" width="25px">, I'm Parthib Sarkar
+<div align="center">
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/lucy2512/lucy2512/blob/main/Assets%20github/hi.gif" width="30px"></h2>
+</div>
 
-<img align="right" alt="GIF"  width="320px" src="https://github.com/lucy2512/lucy2512/blob/main/Assets%20github/programmer.gif" /> 
+<div align="center" width="50">
 
-- 🎓 I’m currently a Student of Computer Science & Engineering, <a href="https://www.hetc.ac.in/" target="_blank">HETC.</a>
-- 🌱 I’m currently learning MERN stack.
-- 👯 I’m looking to collaborate on anything free and open source.
-- 🤔 I’m looking for help with MERN stack.
-- 💬 Ask me about any tech related stuff.
-- 📫 How to reach me: mail4parthib@gmail.com
-- 😄 Pronouns: He/His.
-- ⚡ Fun fact: I spend almost 5 hours playing cricket & PUBG everyday.
-### 📫 Connect with me <img src="https://github.com/lucy2512/lucy2512/blob/main/Assets%20github/handshake.gif" height="32px"> 
+<img src="https://github.com/lucy2512/lucy2512/blob/main/Assets%20github/Parthib.gif" alt="Welcome!" width="300"/>
 
-   [<img align="left"  alt="Parthib | LinkedIn" width="35px" src="https://github.com/lucy2512/lucy2512/blob/main/Assets%20github/icons8-linkedin.svg"/> ][linkedin]
- [<img align="left" alt="Parthib | LinkedIn" width="35px" src="https://github.com/lucy2512/lucy2512/blob/main/Assets%20github/icons8-play-button.svg"/>][youtube]
+</div>
 
-[linkedin]:https://www.linkedin.com/in/parthib-sarkar-05855b1a1
-[youtube]:https://youtu.be/R534mYeGj2o
+<div align="center">
+
+You have finally discovered my Github profile. <br>
+Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
+Ask me anything <a href="https://github.com/lucy2512/lucy2512/issues/new"><b>here</b></a><br>
+or <a href="mail4parthib@gmail.com"><b>email</b></a> me.
+
+<i>Happy Coding!</i> 😊
+
+</div>
+
+<div align="center">
+
+<img align="center" src="https://github-readme-stats3-dun.vercel.app/api?username=lucy2512&include_all_commits=true&count_private=true&show_icons=true&hide=stars&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Parthib's Github Stats">
+
 </br>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img   alt="Parthib's GitHub Stats" src="https://github-readme-stats3-dun.vercel.app/api?username=lucy2512&count_private=true&show_icons=true&hide=stars&hide_border=true&theme=radical" />
-
-</details>
-<details>
-  <summary>😄 Here is meme for you, to make your day better</summary>
-   <a href="https://github.com/lucy2512"><img src="https://github.com/lucy2512/lucy2512/blob/main/Assets%20github/ezgif-7-bc5164347510.png" title="Meme" alt="Please refresh the page if the meme doesn't show up." height="350"></a>
-</details>
-
---- 
-
-<p align="center">
-   <i>
-     "Design is not just what it looks like and feels like. Design is how it works." <br>
-                                                                             -Steve Jobs
-  </i>
-</p>       
+</br>
+<i>Random dev joke for you! (create your own by clicking here ↓)</i><br>
+<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a>
 
 ---
+
+
+<i>Follow me around the web:</i><br>
+
+  
+
+<a href="https://www.linkedin.com/in/parthib-sarkar-05855b1a1/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/parthib-sarkar-05855b1a1/" target="_blank"><img src="https://img.shields.io/youtube/views/R534mYeGj2o?&style=flat-square&logo=youtube" alt="Youtube"></a>
+
+
+
+</div>
+
+
+
 <!--
+**lucy2512/lucy2512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--<a href="" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
+<a href= target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
+
+
+</div>
+
+
+Here are some ideas to get you started:
+
 - 🔭 I’m currently working on ...
-- 💬 Ask me about any tech related stuff.
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-Lucy.vercel.app/api/spotify-playing" alt="Lucy Spotify Playing" width="350" />](https://open.spotify.com/album/6pUg9RDDoVyQQVJ48FkmXz)
-
-
-<details>
-  <summary>📚 Most Used Languages</summary>
-  <img  alt="Parthib's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucy2512&theme=light&layout=compact&hide_border=true" />
-</details>
-
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
