@@ -36,7 +36,10 @@ or <a href="mail4parthib@gmail.com"><b>email</b></a> me.
   
 
 <a href="https://www.linkedin.com/in/parthib-sarkar-05855b1a1/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.facebook.com/itsparthib2512/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
+<a href="https://open.spotify.com/user/y6p590gjgb9xh90oony3e9688" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
 <a href="https://youtu.be/R534mYeGj2o" target="_blank"><img src="https://img.shields.io/youtube/views/R534mYeGj2o?&style=flat-square&logo=youtube" alt="Youtube"></a>
+
 
 
 
