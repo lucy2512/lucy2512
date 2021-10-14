@@ -21,11 +21,13 @@ or <a href="mail4parthib@gmail.com"><b>email</b></a> me.
 
 <div align="center">
 
-<img align="center" src="https://github-readme-stats3-dun.vercel.app/api?username=lucy2512&include_all_commits=true&count_private=true&show_icons=true&hide=stars&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Parthib's Github Stats">
+<!-- <img align="center" src="https://github-readme-stats3-dun.vercel.app/api?username=lucy2512&include_all_commits=true&count_private=true&show_icons=true&hide=stars&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Parthib's Github Stats"> -->
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lucy2512&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 </br>
 </br>
 <i>Random dev joke for you!</i><br>
+</br>
 <img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes">
 
 ---
