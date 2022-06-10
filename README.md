@@ -1,5 +1,5 @@
 <div align="center">
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/lucy2512/lucy2512/blob/main/Assets%20github/hi.gif" width="30px"></h2>
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/lucy2512/lucy2512/blob/main/Assets%20github/hi.gif" width="40"></h2>
 </div>
 
 <div align="center" width="50">
@@ -24,7 +24,7 @@ or <a href="mail4parthib@gmail.com"><b>email</b></a> me.
 <!-- <img align="center" src="https://github-readme-stats3-dun.vercel.app/api?username=lucy2512&include_all_commits=true&count_private=true&show_icons=true&hide=stars&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Parthib's Github Stats"> -->
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lucy2512&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-</br>
+
 </br>
 <i>Random dev joke for you!</i><br>
 </br>
@@ -39,10 +39,13 @@ or <a href="mail4parthib@gmail.com"><b>email</b></a> me.
 
 <a href="https://www.linkedin.com/in/parthib-sarkar-05855b1a1/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.facebook.com/itsparthib2512/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
+<a href="https://www.instagram.com/parthib25dec" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://open.spotify.com/user/y6p590gjgb9xh90oony3e9688" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
 <a href="https://youtu.be/R534mYeGj2o" target="_blank"><img src="https://img.shields.io/youtube/views/R534mYeGj2o?&style=flat-square&logo=youtube" alt="Youtube"></a><br>
 <br>
-![](https://komarev.com/ghpvc/?username=lucy2512&color=green)
+![](https://komarev.com/ghpvc/?username=lucy2512&color=green)<br>
+<br>
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/mail4parthD)
 
 
 
