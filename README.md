@@ -43,8 +43,12 @@ or <a href="mail4parthib@gmail.com"><b>email</b></a> me.
 <a href="https://www.instagram.com/parthib25dec" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://open.spotify.com/user/y6p590gjgb9xh90oony3e9688" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
 <a href="https://youtu.be/R534mYeGj2o" target="_blank"><img src="https://img.shields.io/youtube/views/R534mYeGj2o?&style=flat-square&logo=youtube" alt="Youtube"></a><br>
-<br>
+<!-- <br>
 ![](https://komarev.com/ghpvc/?username=lucy2512&color=green)<br>
+<br> -->
+<i>Profile Views</i><br>
+<br>
+![](https://count.getloli.com/get/@lucy2512)<br>
 <br>
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/mail4parthD)
 
