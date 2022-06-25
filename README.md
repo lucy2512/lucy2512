@@ -30,7 +30,8 @@ or <a href="mail4parthib@gmail.com"><b>email</b></a> me.
 </br>
 <img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes">
 
----
+<img src="https://github.com/lucy2512/lucy2512/blob/main/Assets%20github/line.gif">
+</br>
 
 
 <i>Follow me around the web:</i><br>
