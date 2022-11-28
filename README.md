@@ -33,11 +33,20 @@ or <a href="mail4parthib@gmail.com"><b>email</b></a> me.
 <img src="https://github.com/lucy2512/lucy2512/blob/main/Assets%20github/line.gif">
 </br>
 
+<i>Profile Views</i><br>
+<br>
+![](https://count.getloli.com/get/@lucy2512)<br>
 
+
+<br>
+<p align="center">
+  <a href=""><img src="https://user-images.githubusercontent.com/30869493/141280079-58814cbd-0ec9-4d84-a80e-b572a3c895b9.png" height="90px"></a>
+  <a href=""><img src="https://user-images.githubusercontent.com/30869493/197983335-5b4b4743-31b1-4c5d-a034-aa76cec146ed.png" height="90px"></a>
+</p>
 <i>Follow me around the web:</i><br>
 
   
-
+<br>
 <a href="https://www.linkedin.com/in/parthib-sarkar-05855b1a1/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.facebook.com/itsparthib2512/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 <a href="https://www.instagram.com/parthib25dec" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
@@ -46,10 +55,8 @@ or <a href="mail4parthib@gmail.com"><b>email</b></a> me.
 <!-- <br>
 ![](https://komarev.com/ghpvc/?username=lucy2512&color=green)<br>
 <br> -->
-<i>Profile Views</i><br>
 <br>
-![](https://count.getloli.com/get/@lucy2512)<br>
-<br>
+
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/mail4parthD)
 
 
