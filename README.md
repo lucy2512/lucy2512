@@ -4,7 +4,8 @@
 
 <div align="center" width="50">
 
-<img src="https://github.com/lucy2512/lucy2512/blob/main/Assets%20github/Parthib.gif" alt="Welcome!" width="300"/>
+<!-- <img src="https://github.com/lucy2512/lucy2512/blob/main/Assets%20github/Parthib.gif" alt="Welcome!" width="300"/>-->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&duration=3000&pause=99&color=72CF74&center=true&multiline=true&width=447&height=90&lines=Welcome+to;Parthib's++Github)](https://git.io/typing-svg)
 
 </div>
 
