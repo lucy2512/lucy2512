@@ -1,6 +1,6 @@
 <div align="center">
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/></h2>
-<!--    <img src="https://github.com/lucy2512/lucy2512/blob/main/Assets%20github/hi.gif" width="40"> -->
+   <img src="https://github.com/lucy2512/lucy2512/blob/main/Assets%20github/hi.gif" width="40">
 </div>
 
 <div align="center" width="50">
