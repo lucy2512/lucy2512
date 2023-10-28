@@ -1,5 +1,5 @@
 <div align="center">
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/> <img src="assets/hi.gif" width="30"></h2>
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/> <img src="https://github.com/lucy2512/lucy2512/assets/74641700/a968b0fc-5a07-4e86-85e2-b221c6fc09f6" width="40"></h2>
 </div>
 
 <div align="center" width="50">
@@ -15,11 +15,11 @@
 You have finally discovered my Github profile. <br>
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
 <a href="https://github.com/lucy2512/lucy2512/issues/new"><b>Ask me anything here</b></a><br>
-or <a href="mail4parthib@gmail.com"><b>email me.</b></a>
+or <a href="mail4parthib@gmail.com" style="text-decoration:none"><b>email me.</b></a>
 
 <i>Happy Coding!</i> 😊
 
-<img height="300px" width="400px" src="assets\github.gif"/>
+<img height="300px" width="400px" src="https://github.com/lucy2512/lucy2512/assets/74641700/ccfbdd1e-4087-4aa4-8201-83eeb3825f56"/>
 
 </div>
 
@@ -34,7 +34,7 @@ or <a href="mail4parthib@gmail.com"><b>email me.</b></a>
 </br>
 <img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes">
 
-<img src="assets/line.gif">
+<img src="https://github.com/lucy2512/lucy2512/assets/74641700/a9576a2f-a918-408f-b1a6-5da09b6615c5">
 </br>
 
 <i>Profile Views</i><br>
