@@ -45,6 +45,7 @@ or <a href="mail4parthib@gmail.com" style="text-decoration:none"><b>email me.</b
 <p align="center">
   <a href=""><img src="https://user-images.githubusercontent.com/30869493/141280079-58814cbd-0ec9-4d84-a80e-b572a3c895b9.png" height="90px"></a>
   <a href=""><img src="https://user-images.githubusercontent.com/30869493/197983335-5b4b4743-31b1-4c5d-a034-aa76cec146ed.png" height="90px"></a>
+  <a href=""><img src="https://github.com/lucy2512/lucy2512/assets/74641700/bf6cfe16-86b4-4f26-b817-c0b5fe152ddb" height="105px"></a>
 </p>
 <i>Follow me around the web:</i><br>
 
