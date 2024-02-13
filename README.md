@@ -30,9 +30,9 @@ or <a href="mail4parthib@gmail.com" style="text-decoration:none"><b>email me.</b
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lucy2512&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 </br>
-<i>Random dev joke for you!</i><br>
-</br>
-<img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes">
+<!-- <i>Random dev joke for you!</i><br> -->
+<!-- </br> -->
+<!-- <img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"> -->
 
 <img src="https://github.com/lucy2512/lucy2512/assets/74641700/a9576a2f-a918-408f-b1a6-5da09b6615c5">
 </br>
