@@ -8,7 +8,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&duration=3000&pause=99&color=72CF74&center=true&multiline=true&width=447&height=90&lines=Welcome+to;Parthib's++Github)](https://git.io/typing-svg)
 -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&color=7AF74D&center=true&multiline=true&width=435&height=70&lines=I+am+Prthib+Sarkar;a+fullstack+developer+from+India)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&color=2579F7&center=true&multiline=true&width=435&height=70&lines=I+am+Prthib+Sarkar;a+fullstack+developer+from+India)](https://git.io/typing-svg)
 
 <div align="center">
 
