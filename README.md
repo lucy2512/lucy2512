@@ -19,7 +19,7 @@ or <a href="mail4parthib@gmail.com" style="text-decoration:none"><b>email me.</b
 
 <i>Happy Coding!</i> 😊
 
-<img height="300px" width="400px" src="https://github.com/lucy2512/lucy2512/assets/74641700/ccfbdd1e-4087-4aa4-8201-83eeb3825f56"/>
+<!--<img height="300px" width="400px" src="https://github.com/lucy2512/lucy2512/assets/74641700/ccfbdd1e-4087-4aa4-8201-83eeb3825f56"/>-->
 
 </div>
 
