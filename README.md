@@ -1,6 +1,8 @@
 <div align="center">
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/> <img src="https://github.com/lucy2512/lucy2512/assets/74641700/a968b0fc-5a07-4e86-85e2-b221c6fc09f6" width="40"></h2>
 </div>
+<img src="https://webpets-flame.vercel.app/generated/deno/green_run_8fps.gif">
+
 
 <div align="center" width="50">
 
